@@ -1,0 +1,21 @@
+,NID,Issue Category,Issue Details,METADATA
+0,472602,Title,unrecognized symbol in title,None
+1,472602,Title,forbidden words,None
+2,472602,Title,unit number/property code only,None
+3,472602,Title,excessive upper case,None
+4,472602,Title,title only consist of a single word,None
+5,472602,Title,repetitive words/numbers,None
+6,472602,Description,description length < 500 characters,None
+7,472602,Description,forbidden content in description,None
+8,472602,Description,low quality format,None
+9,472602,Bed Configuration,0 bed count,no bed count
+10,472602,Bed Configuration,no bed configuration,no bed configuration
+11,472602,Bed Configuration,no bed count and configuration,no bed count and configuration
+12,472602,Amenities,amenities count < 20,count: 8 amenities. need to add 12 more amenities
+13,472602,Amenities,missing amenities,None
+14,472602,Images,image count < 24,None
+15,472602,Images,images resolution < 1000x1000,26 of 26 images
+16,472602,Images,images resolution < 2040x1536,26 of 26 images
+17,472602,Images,image orientation,None
+18,472602,Images,missing images,None
+19,472602,Square Footage,no sqft,no room size
